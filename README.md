@@ -1,7 +1,6 @@
 # ALX-Interview 
 </hr>
 
-![GitHub Logo](./images/interview.png)
 <div align="center">
   
 ## Introduction:memo:
